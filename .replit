@@ -1,2 +1,2 @@
 language = 'ruby'
-run = 'ruby bin/mastermind'
+run = 'ruby lib/hangman.rb'
