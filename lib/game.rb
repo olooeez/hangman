@@ -37,13 +37,13 @@ class Game
 
       player.guesses << input
 
+      guesses_left = NUM_GUESSES - player.guesses.size
+
       if word.guess(input)
         puts "> Correct! You have #{guesses_left} guesses left."
       else
         puts "> Incorrect! You have #{guesses_left} guesses left."
       end
-
-      guesses_left -= 1
 
       puts "> Word: [#{word.display}]"
     end
