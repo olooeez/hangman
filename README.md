@@ -1,4 +1,4 @@
-[![test](https://github.com/olooeez/hangman/actions/workflows/test.yml/badge.svg)](https://github.com/olooeez/hangman/actions/workflows/test.yml)
+[![test](https://github.com/olooeez/hangman/actions/workflows/test.yml/badge.svg?branch=main)](https://github.com/olooeez/hangman/actions/workflows/test.yml)
 
 # hangman
 
